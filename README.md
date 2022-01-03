@@ -1,6 +1,6 @@
-### 👋 Hello Stranger 
+### Hello Stranger 👋
 
-This is my archive 👉 https://velog.io/@edenko 👈
+This is my archive https://velog.io/@edenko
 
 <!--
 **edenko/edenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
