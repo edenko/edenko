@@ -1,4 +1,4 @@
-### Hello Stranger 👋
+### Hello, there! 👋
 
 This is my archive https://velog.io/@edenko
 
