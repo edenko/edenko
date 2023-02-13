@@ -1,6 +1,8 @@
 ### Hello, there! 👋
 
-This is my archive https://velog.io/@edenko
+This is my archive 👇👇👇
+https://impartial-practice-861.notion.site/Eden-79f0042df521483b93ef1374b76387ce
+https://velog.io/@edenko
 
 <!--
 **edenko/edenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
